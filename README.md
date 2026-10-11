@@ -2,7 +2,7 @@
 
 > **A self-hosted, privacy-first debt payoff engine built in Rust.**
 
-Snowball Samurai helps you aggressively destroy debt using the **Snowball**, **Avalanche**, or **Velocity Banking** strategies. Upload your financial statements, and it tells you *exactly* how much to pay, *to which account*, and *when* — with smart nudges when you have extra cash to throw at your debt.
+Snowball Samurai helps you aggressively slice away debt using the **Snowball**, **Avalanche**, or **Velocity Banking** strategies. Upload your financial statements, and it tells you *exactly* how much to pay, *to which account*, and *when* — with smart nudges when you have extra cash to throw at your debt.
 
 ## Key Features
 
